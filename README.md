@@ -1,6 +1,11 @@
+# This is a work in progress
+You have been warned. Do not judge for links I have not converted from the fork
+
+
 ---------------------------
-This theme is created based on [hugo-coder](https://github.com/luizdepra/hugo-coder).  
-I made it possible to tell yourself more by my change.   
+This theme is created based on [hugo-coder](https://github.com/naro143/hugo-coder-portfolio).  
+I am making changes to make this more for a company/organization. Basically not focusing on the individual.
+
 Please see [FeaturesOfCoderPortfolio](https://github.com/naro143/hugo-coder-portfolio/blob/master/exampleSite/content/posts/FeaturesOfCoderPortfolio.md) in the post about the change.
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/naro143/hugo-coder-portfolio/issues/new) or [ask me on Twitter](https://twitter.com/naro143).
 
@@ -19,7 +24,7 @@ To use `hugo-coder-portfolio` go through the following steps.
 Clone this repository into your Hugo project.
 
 ```
-git clone https://github.com/naro143/hugo-coder-portfolio themes/coder-portfolio
+git clone https://github.com/derekslenk/hugo-coder-portfolio themes/coder-portfolio
 ```
 
 ### Configuration
